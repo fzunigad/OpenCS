@@ -11,6 +11,3 @@ the curriculum made by the folks of the Open Source Society University (link to 
 
 * The awesome people at OSSU for making an excellent curriculum with free courses 
   and recommended books (some content paid but only if really helpful)
-* 
-* 
-
